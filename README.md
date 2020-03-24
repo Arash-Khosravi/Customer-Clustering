@@ -1,5 +1,8 @@
-# Customer Clustering using Hierarchical clustering and K-mean
+## Customer Clustering using Hierarchical clustering and K-mean 
+
+
 ------------------------
+
 ### The overview
 ![](images/Cluster-1.png)
 
